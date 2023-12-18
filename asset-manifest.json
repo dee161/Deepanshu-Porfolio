@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Deepanshu-Porfolio/static/css/main.e094809d.css",
+    "main.js": "/Deepanshu-Porfolio/static/js/main.522e4160.js",
+    "static/media/remixicon.svg?t=1681573354175": "/Deepanshu-Porfolio/static/media/remixicon.7b85b7f8453487681fc4.svg",
+    "static/media/remixicon.eot?t=1681573354175": "/Deepanshu-Porfolio/static/media/remixicon.ae7015155af44fd22375.eot",
+    "static/media/remixicon.ttf?t=1681573354175": "/Deepanshu-Porfolio/static/media/remixicon.8df75b42f93ef0e1f8aa.ttf",
+    "static/media/pp.jpg": "/Deepanshu-Porfolio/static/media/pp.42f4785676adc4082f54.jpg",
+    "static/media/remixicon.woff?t=1681573354175": "/Deepanshu-Porfolio/static/media/remixicon.56b6495e17f23a23803a.woff",
+    "static/media/remixicon.woff2?t=1681573354175": "/Deepanshu-Porfolio/static/media/remixicon.52f02e1386dd3597bc00.woff2",
+    "static/media/pyImage.png": "/Deepanshu-Porfolio/static/media/pyImage.cb6dee0032b3173564d4.png",
+    "static/media/java.svg": "/Deepanshu-Porfolio/static/media/java.fc6a133132d8267c2e002fad0aefb83e.svg",
+    "static/media/react.svg": "/Deepanshu-Porfolio/static/media/react.286f296c576fece03c93d6e911613424.svg",
+    "static/media/javascript.svg": "/Deepanshu-Porfolio/static/media/javascript.fb00e4f50c90568eec29ef5947031682.svg",
+    "static/media/html.svg": "/Deepanshu-Porfolio/static/media/html.2e79b3d517a00415673023a919d9f89c.svg",
+    "index.html": "/Deepanshu-Porfolio/index.html",
+    "main.e094809d.css.map": "/Deepanshu-Porfolio/static/css/main.e094809d.css.map",
+    "main.522e4160.js.map": "/Deepanshu-Porfolio/static/js/main.522e4160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e094809d.css",
+    "static/js/main.522e4160.js"
+  ]
+}
